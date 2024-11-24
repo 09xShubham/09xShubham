@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Yadav.
-- 👀 I’m interested in Tech.
+- 👀 I’m interested in learning new tech.
 - 🌱 I’m currently learning Machine Learning.
 
 <!---
